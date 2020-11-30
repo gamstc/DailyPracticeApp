@@ -21,4 +21,4 @@ We need practice problems. Many practice problems. These can be really small and
 
 Here you can try a very rudimentary first version: [Demo](https://appetize.io/app/wdbdk1wedngvn8y4uccbedf2q8?device=pixel4&scale=100)
 
-And we are currently working on a wireframe prototype. 
+And this is a [wireframe prototype](https://www.figma.com/proto/UAmydfQj0i6el25vTnkvEu/DailyPracticeApp), to get a more visual idea of what we have in mind. 
