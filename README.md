@@ -1,5 +1,5 @@
 # DailyPracticeApp
-A container app to run [H5P](https://h5p.org/) problem sets
+A container app to run [H5P](https://h5p.org/) problem sets on android
 
 Developed during [Semesterhack 2.0](https://digieduhack.com/en/berlin-semesterhack-2-0-in-german-english) at [DigiEduHack 2020](https://digieduhack.com/en/). This is our [submission page](https://digieduhack.com/en/solutions/the-daily-practice-app-not-only-for-the-ai-campus). 
 
